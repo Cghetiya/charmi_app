@@ -1,0 +1,19 @@
+name: charmi_app
+description: A Flutter app for women's purse shopping.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.7.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # You can add more dependencies here if needed
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
